@@ -23,6 +23,6 @@ Description of function keys:
 * REP: start REP mode (adjust cycle time with potentiometer between 10 ms and 10 s)
 * REPF: start REPF mode (adjust cycle time with potentiometer between 1 ms and 100 ms)
 
-![Patchpanel](https://github.com/dl3hrt/Simple-THAT-controller/blob/main/Simple%20THAT%20Controller%20-%20setting%20cycle%20time.jpg)
+![Patchpanel](https://github.com/dl3hrt/Simple-THAT-controller/blob/main/Simple%20THAT%20Controller%20-%20Setting%20cycle%20time.jpg)
 
 Code:
