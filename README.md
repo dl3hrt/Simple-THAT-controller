@@ -9,7 +9,7 @@ It does nothing more than take over the function of the rotary switch on the THA
 
 ## Schematic
 
-The controller is connected to the hybrid port of THAT. The 5 V power supply is provided by THAT.
+The controller is connected to the hybrid port of THAT. The 5 V power supply is provided by THAT. The "external HALT" input triggers HALT state when a voltage of either polarity is applied to the input jack. An ac opto-isolator is used for this purpose. 
 
 ![Patchpanel](https://github.com/dl3hrt/Simple-THAT-controller/blob/main/Simple%20THAT%20Controller%20-%20Schematic%2020221115.png)
 Note: If P1 is replaced by a logarithmic potentiometer R1 can be omitted. 
