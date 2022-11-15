@@ -11,7 +11,7 @@ It does nothing more than take over the function of the rotary switch on the THA
 
 The controller is connected to the hybrid port of THAT. The 5 V power supply is provided by THAT.
 
-![Patchpanel](https://github.com/dl3hrt/Simple-THAT-controller/blob/main/Simple%20THAT%20Controller%20-%20Schematic.png)
+![Patchpanel](https://github.com/dl3hrt/Simple-THAT-controller/blob/main/Simple%20THAT%20Controller%20-%20Schematic%2020221115.png)
 Note: If P1 is replaced by a logarithmic potentiometer R1 can be omitted. 
 
 Description of function keys:
