@@ -14,6 +14,9 @@ The controller is connected to the hybrid port of THAT. The 5 V power supply is 
 ![Patchpanel](https://github.com/dl3hrt/Simple-THAT-controller/blob/main/Simple%20THAT%20Controller%20-%20Schematic%2020221115.png)
 Note: If P1 is replaced by a logarithmic potentiometer R1 can be omitted. 
 
+![Patchpanel](https://github.com/dl3hrt/Simple-THAT-controller/blob/main/Simple%20THAT-Controller%20-%20Hybrid%20port%20and%20HALT%20socket.jpg)
+![Patchpanel](https://github.com/dl3hrt/Simple-THAT-controller/blob/main/Simple%20THAT%20Controller%20-%20Hybrid%20port%20and%20HALT%20socket.jpg)
+
 Description of function keys:
 * ON/OFF:
   * short keypress: enable/disable remote THAT control
